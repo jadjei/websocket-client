@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+html {
+    background: #3f3f3f;
+}
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: pink;
+}
+
+p {
+  color: pink;
+}
+
+#thescreen {
+  background: grey;
+  color: pink;
+  width:90%;
+  height:300px;
+  padding: 2%;
+  border:6px dotted #616161;
+}
